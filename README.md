@@ -6,6 +6,7 @@
 </p>
 
 <h2>Metodology</h2>
+
 <img src="https://i.imgur.com/5bPuDb0.png" height="70%" width="70%/>
 
 <b>Results</b>
