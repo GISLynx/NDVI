@@ -9,5 +9,4 @@
 <img src="https://i.imgur.com/5bPuDb0.png" height="70%" width="70%/>
 
 <b>Results</b>
-
 <img src="https://i.imgur.com/5oiQRSK.png"  height="60%" width="60%"/>
